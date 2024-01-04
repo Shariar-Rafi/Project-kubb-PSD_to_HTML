@@ -1,2 +1,2 @@
-# Project-kudd-PSD_to_HTML
-Project "kudd" PSD to HTML
+# Project-kubb-PSD_to_HTML
+Project "kubb" PSD to HTML
